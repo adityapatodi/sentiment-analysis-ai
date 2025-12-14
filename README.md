@@ -7,3 +7,9 @@ The user provides labelled sentences as training data. The text is converted int
 - scikit-learn
 - TF-IDF Vectoriser
 - Multinomial Naive Bayes
+
+1. Run the Python file.
+2. Paste training data in the provided format.
+3. Enter new sentences to classify.
+
+Sample training data is provided in 'sample_training_data.txt'.
